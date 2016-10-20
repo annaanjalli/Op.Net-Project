@@ -1,0 +1,10 @@
+D:\IMPORTANT DATA\project\CRUD\CRUD\Logging\bin\Debug\Logging.dll
+D:\IMPORTANT DATA\project\CRUD\CRUD\Logging\bin\Debug\Logging.pdb
+D:\IMPORTANT DATA\project\CRUD\CRUD\Logging\obj\Debug\ResolveAssemblyReference.cache
+D:\IMPORTANT DATA\project\CRUD\CRUD\Logging\obj\Debug\Logging.dll
+D:\IMPORTANT DATA\project\CRUD\CRUD\Logging\obj\Debug\Logging.pdb
+D:\IMPORTANT DATA\project\CRUD\CRUD\Logging\bin\Debug\DAL.dll
+D:\IMPORTANT DATA\project\CRUD\CRUD\Logging\bin\Debug\MySql.Data.dll
+D:\IMPORTANT DATA\project\CRUD\CRUD\Logging\bin\Debug\DAL.pdb
+D:\IMPORTANT DATA\project\CRUD\CRUD\Logging\bin\Debug\PROP.dll
+D:\IMPORTANT DATA\project\CRUD\CRUD\Logging\bin\Debug\PROP.pdb

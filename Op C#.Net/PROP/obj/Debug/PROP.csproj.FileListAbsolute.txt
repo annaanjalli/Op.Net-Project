@@ -1,0 +1,5 @@
+D:\IMPORTANT DATA\project\CRUD\CRUD\PROP\bin\Debug\PROP.dll
+D:\IMPORTANT DATA\project\CRUD\CRUD\PROP\bin\Debug\PROP.pdb
+D:\IMPORTANT DATA\project\CRUD\CRUD\PROP\obj\Debug\ResolveAssemblyReference.cache
+D:\IMPORTANT DATA\project\CRUD\CRUD\PROP\obj\Debug\PROP.dll
+D:\IMPORTANT DATA\project\CRUD\CRUD\PROP\obj\Debug\PROP.pdb
